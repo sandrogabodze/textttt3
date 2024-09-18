@@ -1,0 +1,30 @@
+.p {
+  color: grey;
+  text-align: center;
+  margin-right: 1050px;
+
+}
+
+h4 {
+    color: blue;
+    text-align: center;
+    font-weight: bolder;
+    line-height: 16.36px;
+    size: 16px;
+    margin-right: 260px;     
+
+}
+
+.div-tag {
+    width: 285px;
+    height: 160px;
+    border: 1px solid; 
+    color: white;
+    text-align: justify;
+    margin-left: 70px;
+    
+}
+
+p {
+   color: red;
+}
